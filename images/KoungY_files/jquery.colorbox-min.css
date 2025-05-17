@@ -1,0 +1,44 @@
+#cboxWrapper,
+.cboxPhoto{max-width:none}
+.cboxIframe,
+.cboxPhoto{display:block;border:0}
+#cboxCurrent{left:30px;position:fixed}
+#cboxTitle{left:0;position:fixed;right:0;text-align:center;width:auto;}
+#cboxOverlay,
+#cboxWrapper,
+#colorbox{position:absolute;top:0;left:0;z-index:9999}
+#cboxOverlay{position:fixed;width:100%;height:100%;background:#fff;opacity:.98!important}
+#cboxBottomLeft,
+#cboxMiddleLeft{clear:left}
+#cboxTitle{bottom:30px;background:#f5f5f5;padding:10px 30px}
+#cboxLoadingGraphic,
+#cboxLoadingOverlay{position:absolute;top:0;left:0;width:100%;height:100%}
+.cboxPhoto{float:left;margin:auto;-ms-interpolation-mode:bicubic}
+.cboxIframe{width:100%;height:100%;padding:0;margin:0;background:#fff}
+#cboxContent,
+#cboxLoadedContent,
+#colorbox{box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box}
+#cboxClose:active,
+#cboxNext:active,
+#cboxPrevious:active,
+#cboxSlideshow:active,
+#colorbox{outline:0}
+#cboxContent{position:relative;margin:20px;background:#fff}
+#cboxError{padding:50px;border:1px}
+#cboxLoadedContent{overflow:auto;-webkit-overflow-scrolling:touch;padding:40px;}
+#cboxCurrent{top:30px;color:#888;font-size:25px}
+#cboxCurrent span{font-size:40px;color:#333}
+#cboxLoadingGraphic{background:url(https://www.koungy.com/c/themes/koungy/assets/scripts/colorbox/loading.gif) center center no-repeat}
+#cboxClose,
+#cboxNext,
+#cboxPrevious,
+#cboxSlideshow{cursor:pointer;border:0;padding:0;margin:0;overflow:visible;width:auto;background:0 0}
+#cboxNext,
+#cboxPrevious{top:50%;margin-top:-70px;width:180px;height:180px;-webkit-transition:all .8s ease 0s;-moz-transition:all .8s ease 0s;-o-transition:all .8s ease 0s;position:fixed;text-indent:-9999px;opacity:.3;border-radius:50%}
+#cboxSlideshow{position:absolute;top:-20px;right:90px;color:#fff}
+#cboxPrevious{left:30px;background:#fafafa url("prev.png") no-repeat scroll center center;transition:all .8s ease 0s}
+#cboxPrevious:hover{opacity:.9}
+#cboxNext{right:30px;background:#fafafa url("next.png") no-repeat scroll center center;transition:all .8s ease 0s}
+#cboxClose:hover,
+#cboxNext:hover{opacity:1}
+#cboxClose{position:fixed;top:30px;right:30px;display:block;width:80px;height:80px;text-indent:-9999px;background:url(close.png) center no-repeat;border-radius:50%;-webkit-transition:all .8s ease 0s;-moz-transition:all .8s ease 0s;-o-transition:all .8s ease 0s;transition:all .8s ease 0s;opacity:.3}

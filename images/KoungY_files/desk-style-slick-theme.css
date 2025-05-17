@@ -1,0 +1,26 @@
+.slick-prev,
+.slick-next{border-radius:50%;font-size:0;line-height:0;position:absolute;top:50%;display:block;width:30px;height:30px;padding:0;cursor:pointer;color:transparent;border:none;outline:none;background:#ED1D27 url('../images/arrows.png') no-repeat scroll 0 0;z-index:2;opacity:.6;-webkit-transform:translate(0, -50%);-ms-transform:translate(0, -50%);transform:translate(0, -50%)}
+.slick-prev{left:12px;background-position:-11px -10px}
+.slick-next{right:12px;background-position:-46px -10px}
+.news-events .news-events-list .slick-prev,
+.section-aligncenter .items-list .products-slide .slick-prev{left:inherit;right:56px;top:-38px}
+.news-events .news-events-list .slick-next,
+.section-aligncenter .items-list .products-slide .slick-next{right:20px;top:-38px}
+.slick-next.slick-arrow.slick-disabled,
+.slick-prev.slick-arrow.slick-disabled{opacity:1;pointer-events:none}
+.slick-prev:hover,
+.slick-next:hover{opacity:1}
+.slick-prev,
+.slick-prev:hover,
+.slick-next,
+.slick-next:hover{-webkit-transition:all .5s;transition:all .5s}
+.slick-dots{bottom:0;display:block;float:left;height:26px;list-style:outside none none;margin:0;padding:0;position:absolute;text-align:center;width:100%;margin-bottom:5px}
+.slick-dots li{background:#ccc;border-radius:50%;content:"";cursor:pointer;display:inline-block;height:8px;margin:0 4px;padding:0;position:relative;width:8px}
+.slick-dots li.slick-active{opacity:1;background:#ed1d27}
+.slick-dots li button{font-size:0;line-height:0;display:block;width:8px;height:8px;padding:4px;cursor:pointer;color:transparent;border:0;outline:none;background:transparent;}
+.slick-dots li button:hover,
+.slick-dots li button:focus{outline:none;}
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before{opacity:1;}
+.slick-dots li button:before{font-family:'slick';font-size:6px;line-height:20px;position:absolute;top:0;left:0;width:10px;height:10px;text-align:center;opacity:.25;color:black;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.slick-dots li.slick-active button:before{opacity:.75;color:black;}

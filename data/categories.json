@@ -1,0 +1,13 @@
+ [
+
+    {
+        "category": "Smart Phone",
+        "brand":["Samsung","iPhone","Oppo" ]
+    },
+    {
+        "category": "Smart Watch",
+        "brand":["Samsung", "iWatch", "Xiaomi" ]
+    }
+
+
+]

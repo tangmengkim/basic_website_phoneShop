@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Galaxy S24 Ultra",
+        "price": 1439,
+        "image":"/images/samsung/samsung-galaxy-s24-ultra-5g-sm-s928-stylus.jpg",
+        "category": "Smart Phone",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Galaxy S24 Plus",
+        "price": 1159,
+        "image":"/images/samsung/samsung-galaxy-s24-plus-5g-sm-s926.jpg",
+        "category": "Smart Phone",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Galaxy S24",
+        "price": 979,
+        "image":"/images/samsung/samsung-galaxy-s24-5g-sm-s921.jpg",
+        "category": "Smart Phone",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Galaxy S23",
+        "price": 649,
+        "image":"/images/samsung/samsung-galaxy-s23-fe.jpg",
+        "category": "Smart Phone",
+        "brand": "Samsung"
+    },
+    {
+        "name": "Galaxy Z Fold5",
+        "price": 1559,
+        "image":"/images/samsung/z_fold5.png",
+        "category": "Smart Phone",
+        "brand": "Samsung"
+    },
+    {
+        "name": "15 Pro Max 256GB",
+        "price": 1279,
+        "image":"/images/iphone/apple-iphone-15-pro-max.jpg",
+        "category": "Smart Phone",
+        "brand": "iPhone"
+    },
+    {
+        "name": "15 Pro Max 512GB",
+        "price": 1519,
+        "image":"/images/iphone/apple-iphone-15-pro-max-1.png",
+        "category": "Smart Phone",
+        "brand": "iphone"
+    },
+    {
+        "name": "15 Pro Max 1TB",
+        "price": 1779,
+        "image":"/images/iphone/apple-iphone-15-pro-max-1-1.png",
+        "category": "Smart Phone",
+        "brand": "iphone"
+    },
+    {
+        "name": "iPhone13 128GB",
+        "price": 619,
+        "image":"/images/iphone/iPhone-13.png",
+        "category": "Smart Phone",
+        "brand": "iphone"
+    },
+    {
+        "name": "Oppo A38",
+        "price": 169,
+        "image":"/images/oppo/oppo-a38.jpg",
+        "category": "Smart Phone",
+        "brand": "oppo"
+    },
+    {
+        "name": "Oppo A18",
+        "price": 129,
+        "image":"/images/oppo/oppo-a38.jpg",
+        "category": "Smart Phone",
+        "brand": "oppo"
+    },
+    {
+        "name": "Reno10 Pro",
+        "price": 569,
+        "image":"/images/oppo/oppo-reno10-pro-international.jpg",
+        "category": "Smart Phone",
+        "brand": "oppo"
+    },
+    {
+        "name": "Reno10",
+        "price": 399,
+        "image":"/images/oppo/oppo-reno10-international.jpg",
+        "category": "Smart Phone",
+        "brand": "oppo"
+    },
+    {
+        "name": "A78 256GB/8RAM",
+        "price": 239,
+        "image":"/imagesimages/oppo/A78.png",
+        "category": "Smart Phone",
+        "brand": "oppo"
+    },
+    {
+        "name": "Oppo A77s",
+        "price": 249,
+        "image":"/images/oppo/A77s.png",
+        "category": "Smart Phone",
+        "brand": "oppo"
+    },
+    {
+        "name": "Oppo A17k",
+        "price": 129,
+        "image":"/imagesimages/oppo/A17k.png",
+        "category": "Smart Phone",
+        "brand": "oppo"
+    }
+]

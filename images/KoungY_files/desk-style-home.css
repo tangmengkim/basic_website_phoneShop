@@ -1,0 +1,34 @@
+.content.home{}
+.section.slide .side-left{max-width:680px;float:left;margin-right:10px;height:auto;max-height:422px;overflow:hidden;position:relative;width:100%}
+.section.slide .side-left .main-slide-item a,
+.section.slide .side-left .main-slide-item a img{float:left}
+.section.slide .side-right{max-width:334px;float:left}
+.section.slide .side-right .img-right{float:left;height:206px;overflow:hidden;width:100%;}
+.section.slide .side-right .img-right:nth-child(1){margin-bottom:10px}
+.section.slide .side-right .img-right img{float:left}
+.section.slide .side-right .img-right img:hover{opacity:.7}
+.section.slide .side-right .img-right img,
+.section.slide .side-right .img-right img:hover{-moz-transition:all .3s ease;-webkit-transition:all .3s ease;transition:all .3s ease}
+.section-aligncenter .section-new-arrival .items-list .products-new-arrival{width:100%;float:left;margin:2px auto 8px}
+.section-aligncenter .section-new-arrival .items-list .products-list{float:left;max-width:160px;position:relative;}
+.section-aligncenter .section-new-arrival .items-list.two-item{width:auto}
+.section-aligncenter .section-center.section-accessories{margin-bottom:0}
+.section-center.section-new-arrival .content-title > h3{width:25%;float:left}
+.section-center.section-new-arrival ul.tabs{float:left;margin:0;padding:0;width:100%}
+.section-center.section-new-arrival ul.tabs li{cursor:pointer;float:left;line-height:38px;padding-top:4px;text-align:center;width:20%}
+.section-center.section-new-arrival ul.tabs li.current{background:#ededed;border-bottom:4px solid #ed1d27}
+.section-center.section-new-arrival .tab-content{display:none;background:#fff}
+.section-center.section-new-arrival .tab-content.current{display:inherit}
+.section.news-events .news-events-list{float:left;width:100%;margin-bottom:15px}
+.news-events-list .news-list .thumbnail{border:solid #eee 1px;line-height:none;width:100%;float:left;height:153px;}
+.section.news-events .news-events-list .news-list{width:100%;float:left;margin:2px 7.5px 8px;text-align:left;outline:none !important;}
+.section.news-events .news-events-list .news-list .hovereffect{cursor:pointer;display:inline-block;float:none;height:100%;margin:0 auto;overflow:hidden;position:relative;text-align:center;width:100%;background-color:#000;}
+.section.news-events .news-events-list .news-list:hover img{-ms-transform:scale(1.05);-webkit-transform:scale(1.05);transform:scale(1.05);opacity:.7}
+.section.news-events .news-events-list h3{width:100%;float:left;color:#333;font-size:18px;line-height:24px;padding:10px 0;font-weight:400;}
+.news-events-list h3 a{color:#333;}
+.news-events-list .news-list:hover h3 a{color:#ed1d27}
+.section.news-events .news-events-list h3:hover{color:#ed1d27}
+.section.news-events .news-events-list h3,
+.section.news-events .news-events-list h3:hover,
+.section.news-events .news-events-list .news-list img,
+.section.news-events .news-events-list .news-list:hover img{-moz-transition:all .3s ease;-webkit-transition:all .3s ease;transition:all .3s ease}
